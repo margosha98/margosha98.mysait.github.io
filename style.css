@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+}
+p,img{
+    background-color: lightgreen;
+}
+p{
+    border: 3px solid blue;
+    border-radius: 4px;
+}
+.winter{
+        border: 3px solid white;
+    border-radius: 4px;
+    background-color: white;
+}
+.seazon{
+    color: blue
+}
+.red{
+    color: red;
+}
